@@ -4,6 +4,9 @@
 TagManager:
   serializedVersion: 2
   tags:
+  - Bee
+  - Flover
+  - StartPoint
   - Cell
   layers:
   - Default
@@ -14,7 +17,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - Points
   - 
   - 
   - 
